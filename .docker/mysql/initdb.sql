@@ -1,0 +1,1 @@
+CREATE DATABASE IF NOT EXISTS teste_prog_signo;
